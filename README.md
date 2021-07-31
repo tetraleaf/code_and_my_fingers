@@ -6,9 +6,12 @@ by Tetsu Kondo (ITP 2002)
  
 ##  
 
-Switch : 1 or 0 
+Switch1 : 1 or 0 
 
-Volumes : 0 to 255 
+Volume1 : 0 to 255 
+
+Volume2 : 0 to 255 
 
 and I have 10 fingers
 
+##  

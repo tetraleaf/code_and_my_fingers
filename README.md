@@ -17,3 +17,18 @@ Switch1 : 1 or 0
 and I have 10 fingers.
 
 ##  
+
+
+## Codes 
+
+Processing
+ - code_and_my_fingers.pde
+ 
+p5
+ - sketch.js
+
+Arduino 
+ - code_and_my_finger.ino
+ - code_and_my_fingers_p5.ino
+ 
+##  

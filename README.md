@@ -1,4 +1,4 @@
-# " Code and My Fingers"  
+#  Code and My Fingers  
 
 by Tetsu Kondo (ITP 2002)
  

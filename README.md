@@ -26,6 +26,8 @@ Arduino
  - code_and_my_finger.ino
  - code_and_my_fingers_p5.ino
  
+(put finger images in data folder)
+
 ## My fingers 
 
 I code, draw, and play music with my fingers. 

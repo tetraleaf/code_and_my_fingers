@@ -6,12 +6,14 @@ by Tetsu Kondo (ITP 2002)
  
 ##  
 
-Switch1 : 1 or 0 
 
 Volume1 : 0 to 255 
 
 Volume2 : 0 to 255 
 
-and I have 10 fingers
+Switch1 : 1 or 0 
+
+
+and I have 10 fingers.
 
 ##  

@@ -9,9 +9,9 @@ by Tetsu Kondo (ITP 2002)
 ##  Data
 
 
-Volume1 : 0 to 255 
+Volume1 : 0 to 255 (left finger)
 
-Volume2 : 0 to 255 
+Volume2 : 0 to 255 (right finger)
 
 Switch1 : 1 or 0 
 

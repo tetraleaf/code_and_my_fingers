@@ -32,4 +32,4 @@ Arduino
 
 ## My fingers 
 
-I code, draw, and play music with my fingers. 
+I code, draw, and play instruments with my fingers. 

@@ -8,6 +8,10 @@ by Tetsu Kondo (ITP 2002)
 
 <img src="https://github.com/tetraleaf/code_and_my_fingers/blob/main/codefingers.jpg" width="50%" height="50%">
 
+
+https://user-images.githubusercontent.com/26129745/127928563-0cfee5a5-92ff-4a9b-8feb-ab199a9977da.mov
+
+
 ##  Data
 
 Volume1 : 0 to 255 (left finger)
